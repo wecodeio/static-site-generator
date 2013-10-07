@@ -1,0 +1,9 @@
+---
+
+es:
+  greet: Hola
+  curse: Maldición!
+
+en:
+  greet: Hello
+  curse: Damn!
